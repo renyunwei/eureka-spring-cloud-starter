@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+
+Built-By: root
+
+SCM_Branch:origin/master
+Created-By: Apache Maven 3.3.3
+
+Build-JDK:1.7.0_45
+
